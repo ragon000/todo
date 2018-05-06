@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = ["Philipp Hochkamp <ragonnullx3@gmail.com>"]
 
 [dependencies]
-termion = "*"
+tui-rs = "*"
